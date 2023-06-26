@@ -20,5 +20,5 @@ build:
 artifacts:
     files:
         - '**/*'
-    base-directory: "Manish/"
+    base-directory:
     discard-paths: yes
